@@ -1,1 +1,7 @@
-
+- 👋 Hi, I’m Hemalatha
+- 👀 I’m an Aspiring Data Analyst, who enjoys creating creative Power BI reports, innovative dashboards
+- 🌱 I’m currently learning Generative AI(Gemini Pro, Open AI, Llama, Langchain, Pinecone, Vector Databases)
+- 💞️ I’m Open to collaborate on Data Analysis Projects, Volunteer or Otherwise
+- 📫 Lets Connect on linkedin
+- ⚡ Pronouns: She/Her
+- 😄 Fun fact: I Enjoy exploring New skills and creating MEMES 
