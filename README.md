@@ -4,4 +4,4 @@
 - 💞️ I’m Open to collaborate on Data Analysis Projects, Volunteer or Otherwise
 - 📫 Lets Connect on linkedin
 - ⚡ Pronouns: She/Her
-- 😄 Fun fact: I Enjoy exploring New skills and creating MEMES 
+- 😄 Fun fact: I Enjoy exploring New skills 
